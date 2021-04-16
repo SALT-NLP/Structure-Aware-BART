@@ -21,7 +21,7 @@ These instructions will get you running the codes of Structure-Aware-Bart Conver
 
 
 **Note that different versions of rouge or different rouge packages might result in different rouge scores.**
-**For the transformers, we used the version realsed by Oct. 7 2020. The updated version might also result in different performances.**
+**For the transformers, we used the version released by Oct. 7 2020. The updated version might also result in different performances.**
 
 
 

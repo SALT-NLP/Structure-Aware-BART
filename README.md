@@ -28,7 +28,7 @@ These instructions will get you running the codes of Structure-Aware-Bart Conver
 ### Install the transformers with S-BART
 
 ```
-cd s-transformers
+cd transformers
 
 pip install --editable ./
 ```

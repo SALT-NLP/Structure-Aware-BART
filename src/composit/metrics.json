@@ -1,0 +1,123 @@
+{
+    "val": [
+        {
+            "val_avg_loss": 1374.3662109375,
+            "val_avg_rouge-1": 0.0,
+            "val_avg_rouge-2": 0.0,
+            "val_avg_rouge-l": 0.0,
+            "val_avg_gen_time": 0.8092607259750366,
+            "val_avg_gen_len": 120.0,
+            "step_count": 1
+        },
+        {
+            "val_avg_loss": 166.4623260498047,
+            "val_avg_rouge-1": 42.66621051344743,
+            "val_avg_rouge-2": 20.409643520782396,
+            "val_avg_rouge-l": 43.391857946210266,
+            "val_avg_gen_time": 0.29659442854976886,
+            "val_avg_gen_len": 29.860635696821515,
+            "step_count": 2
+        },
+        {
+            "val_avg_loss": 160.5333709716797,
+            "val_avg_rouge-1": 44.216179706601466,
+            "val_avg_rouge-2": 21.64987897310514,
+            "val_avg_rouge-l": 43.19975427872861,
+            "val_avg_gen_time": 0.2406788635953423,
+            "val_avg_gen_len": 24.122249388753055,
+            "step_count": 3
+        },
+        {
+            "val_avg_loss": 157.5530548095703,
+            "val_avg_rouge-1": 45.297508557457206,
+            "val_avg_rouge-2": 22.668529095354526,
+            "val_avg_rouge-l": 44.52010488997555,
+            "val_avg_gen_time": 0.26713906552797423,
+            "val_avg_gen_len": 28.748166259168705,
+            "step_count": 4
+        },
+        {
+            "val_avg_loss": 156.8190460205078,
+            "val_avg_rouge-1": 45.72608679706601,
+            "val_avg_rouge-2": 22.640763325183375,
+            "val_avg_rouge-l": 44.818008557457205,
+            "val_avg_gen_time": 0.27569145765747594,
+            "val_avg_gen_len": 30.327628361858192,
+            "step_count": 5
+        },
+        {
+            "val_avg_loss": 157.99221801757812,
+            "val_avg_rouge-1": 46.313213691931544,
+            "val_avg_rouge-2": 23.717439853300732,
+            "val_avg_rouge-l": 45.48253960880195,
+            "val_avg_gen_time": 0.25492902664800143,
+            "val_avg_gen_len": 28.066014669926652,
+            "step_count": 6
+        },
+        {
+            "val_avg_loss": 156.7786102294922,
+            "val_avg_rouge-1": 46.15695134474328,
+            "val_avg_rouge-2": 23.084551100244497,
+            "val_avg_rouge-l": 44.769397799511005,
+            "val_avg_gen_time": 0.2525069754397665,
+            "val_avg_gen_len": 28.239608801955992,
+            "step_count": 7
+        },
+        {
+            "val_avg_loss": 156.5192413330078,
+            "val_avg_rouge-1": 46.95952102689487,
+            "val_avg_rouge-2": 24.016781662591683,
+            "val_avg_rouge-l": 45.82216234718826,
+            "val_avg_gen_time": 0.2720886876938687,
+            "val_avg_gen_len": 30.381418092909534,
+            "step_count": 8
+        },
+        {
+            "val_avg_loss": 156.8887481689453,
+            "val_avg_rouge-1": 46.955041320293404,
+            "val_avg_rouge-2": 24.11916356968215,
+            "val_avg_rouge-l": 46.19881320293398,
+            "val_avg_gen_time": 0.2731986637511871,
+            "val_avg_gen_len": 30.249388753056234,
+            "step_count": 9
+        },
+        {
+            "val_avg_loss": 158.1481170654297,
+            "val_avg_rouge-1": 46.8080586797066,
+            "val_avg_rouge-2": 23.67787872860636,
+            "val_avg_rouge-l": 45.44492322738386,
+            "val_avg_gen_time": 0.2742970674719962,
+            "val_avg_gen_len": 31.533007334963326,
+            "step_count": 10
+        },
+        {
+            "val_avg_loss": 158.24180603027344,
+            "val_avg_rouge-1": 46.77338166259169,
+            "val_avg_rouge-2": 23.572202444987777,
+            "val_avg_rouge-l": 45.54071026894866,
+            "val_avg_gen_time": 0.2768090616519993,
+            "val_avg_gen_len": 32.06112469437653,
+            "step_count": 11
+        },
+        {
+            "val_avg_loss": 160.21441650390625,
+            "val_avg_rouge-1": 47.042550366748166,
+            "val_avg_rouge-2": 24.202753545232273,
+            "val_avg_rouge-l": 46.36653936430318,
+            "val_avg_gen_time": 0.287092587767137,
+            "val_avg_gen_len": 31.99511002444988,
+            "step_count": 12
+        }
+    ],
+    "test": [
+        {
+            "test_avg_loss": 156.18209838867188,
+            "test_avg_rouge-1": 46.71256341463415,
+            "test_avg_rouge-2": 22.947288292682927,
+            "test_avg_rouge-l": 45.30181268292683,
+            "test_avg_gen_time": 0.31203767206610705,
+            "test_avg_gen_len": 31.329268292682926,
+            "step_count": 13
+        }
+    ]
+}

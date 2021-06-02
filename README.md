@@ -35,7 +35,7 @@ pip install --editable ./
 
 
 ### Downloading the data
-Please download the dataset (including pre-processed graphs) and put them in the data folder [here]https://drive.google.com/file/d/1EnBvGlhkyLx0N7tjlZPTt1pbgmiQO1Mm/view?usp=sharing)
+Please download the dataset (including pre-processed graphs) and put them in the data folder [here](https://drive.google.com/file/d/1EnBvGlhkyLx0N7tjlZPTt1pbgmiQO1Mm/view?usp=sharing)
 
 ### Pre-processing the data
 
